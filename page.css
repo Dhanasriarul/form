@@ -1,0 +1,38 @@
+body{
+    background-color:antiquewhite;
+    background-repeat: no-repeat;
+    display: grid;
+    place-content: center;
+}
+#box{
+    background-image: url("girl.png");
+    background-repeat: no-repeat;
+    background-size: 500px; 
+    background-color: bisque;
+    width: 500px;
+    height: 400px;
+    margin-top: 90px;
+}
+#bu
+{
+    width: 300px;
+}
+#sub{
+    background-color:burlywood;
+    width: 90px;
+    height: 40px;
+    border-radius: 10px;
+    color: blue;
+    font-style:italic;
+    float: right;
+}
+#fn{
+    border-color:transparent;
+    border-bottom-color: aqua;
+    width: 150px;
+}
+#ln{
+    border-color: transparent;
+    border-bottom-color:aqua;
+    width:150px;
+}
